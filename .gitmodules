@@ -1,0 +1,6 @@
+[submodule "TP220211C/RTP2/eigen-git-mirror"]
+	path = TP220211C/RTP2/eigen
+	url = https://github.com/eigenteam/eigen-git-mirror
+[submodule "TP220211C/RTP2/pybind11"]
+	path = TP220211C/RTP2/pybind11
+	url = https://github.com/pybind/pybind11
